@@ -1,0 +1,1 @@
+# Reporting-and-Cancelable-Functor-Lambda-Task-QtAsync
